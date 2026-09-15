@@ -29,12 +29,12 @@
 
 <br>
 
-<a href="https://github.com/ifsie">
-<img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=ifsie&amp;show_icons=true&amp;title_color=c9d1d9&amp;icon_color=58a6ff&amp;text_color=8b949e&amp;bg_color=0d1117&amp;hide_border=true&amp;border_radius=0" />
+<a href="https://github.com/t0nxy">
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api?username=ifsie&amp;show_icons=true&amp;title_color=c9d1d9&amp;icon_color=58a6ff&amp;text_color=8b949e&amp;bg_color=ffffff&amp;hide_border=true&amp;border_radius=0" />
 </a>
 
-<a href="https://github.com/ifsie">
-<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ifsie&amp;layout=compact&amp;title_color=c9d1d9&amp;text_color=8b949e&amp;bg_color=0d1117&amp;hide_border=true&amp;border_radius=0" />
+<a href="https://github.com/t0nxy">
+<img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ifsie&amp;layout=compact&amp;title_color=c9d1d9&amp;text_color=8b949e&amp;bg_color=ffffff&amp;hide_border=true&amp;border_radius=0" />
 </a>
 
 <br>
